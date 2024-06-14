@@ -4,7 +4,6 @@ import bcrypt from "bcryptjs";
 import jwt from "jsonwebtoken";
 import gravatar from "gravatar";
 import path from "path";
-
 import fs from "fs/promises";
 import multer from "multer";
 import jimp from "jimp";
