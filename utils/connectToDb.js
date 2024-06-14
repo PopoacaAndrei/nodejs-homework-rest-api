@@ -11,5 +11,4 @@ async function connectToDb() {
     process.exit(1);
   }
 }
-
 export default connectToDb;
